@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "seoraksan-mountains-is-covered-by-morning-fog-and-sunrise-in-seoul-korea-1.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
